@@ -1,0 +1,6 @@
+main: com.github.sornerol.minecraft.InstantTreePlugin
+api-version: 1.17
+
+name: InstantTreefall
+version: 1.0.0
+author: sornerol
